@@ -8,7 +8,7 @@ This section contains structured notes and practical examples for learning and u
 
 ## [1. Introduction](Introduccion)
 
-### [1.1 First Steps](/Introduccion/Primeros_Pasos.ipynb)
+### [1.1 First Steps](Introduccion/Primeros_Pasos.ipynb)
 
 - Comments  
 - Operations  
@@ -33,7 +33,7 @@ This section contains structured notes and practical examples for learning and u
 - Nominal and ordinal factors  
 - `summary()`
 
-### [1.3 Data Frames and Lists](Notas/R_Language/Introduccion/Data_Frame_y_Listas.ipynb)
+### [1.3 Data Frames and Lists](Introduccion/Data_Frame_y_Listas.ipynb)
 
 - Creating `data.frame()`  
 - `head()` and `tail()`  
@@ -44,9 +44,9 @@ This section contains structured notes and practical examples for learning and u
 
 ---
 
-## [2. Intermediate](Notas/R_Language/Intermedio)
+## [2. Intermediate](Intermedio)
 
-### [2.1 Conditionals and Functions](Notas/R_Language/Intermedio/Condicionales_y_Funciones.ipynb)
+### [2.1 Conditionals and Functions](Intermedio/Condicionales_y_Funciones.ipynb)
 
 - Logical operators: `&`, `|`, `!`  
 - `if` / `else` statements  
@@ -54,14 +54,14 @@ This section contains structured notes and practical examples for learning and u
 - Using `help()` and `?`  
 - Installing packages and `library()`
 
-### [2.2 Loops and Dates](Notas/R_Language/Intermedio/Ciclos_y_Fechas.ipynb)
+### [2.2 Loops and Dates](Intermedio/Ciclos_y_Fechas.ipynb)
 
 - `while` loop  
 - `for` loop  
 - Date functions: `now()` and `today()`  
 - Date formatting and handling  
 
-### [2.3 Pattern Matching and Apply Family](Notas/R_Language/Intermedio/Coincidencias_y_sapply.ipynb)
+### [2.3 Pattern Matching and Apply Family](Intermedio/Coincidencias_y_sapply.ipynb)
 
 - Pattern matching with `grepl()` and `grep()`  
 - Regular expressions: `^`, `\\.`, `$`  
@@ -72,9 +72,9 @@ This section contains structured notes and practical examples for learning and u
 
 ---
 
-## [3. Tidyverse – Introduction](Notas/R_Language/Tidyverse)
+## [3. Tidyverse – Introduction](Tidyverse)
 
-### [3.1 dplyr Basics](Notas/R_Language/Tidyverse/dplyr_basico.ipynb)
+### [3.1 dplyr Basics](Tidyverse/dplyr_basico.ipynb)
 
 - `install.packages()`  
 - `library()`  
@@ -85,13 +85,13 @@ This section contains structured notes and practical examples for learning and u
 - `arrange()`  
 - `mutate()`
 
-### [3.2 Summarize and Group By](Notas/R_Language/Tidyverse/Summarize_y_Group_by.ipynb)
+### [3.2 Summarize and Group By](Tidyverse/Summarize_y_Group_by.ipynb)
 
 - `summarize()`  
 - `group_by()`  
 - Introduction to `ggplot2`
 
-### [3.3 Joining Tables with dplyr](Notas/R_Language/Tidyverse/Unir_tablas_con_dplyr.ipynb)
+### [3.3 Joining Tables with dplyr](Tidyverse/Unir_tablas_con_dplyr.ipynb)
 
 - `inner_join()`  
 - `left_join()`  
@@ -104,9 +104,9 @@ This section contains structured notes and practical examples for learning and u
 
 ---
 
-## [4. Data Manipulation with dplyr and Strings](Notas/R_Language/Manipulacion_Dplyr)
+## [4. Data Manipulation with dplyr and Strings](Manipulacion_Dplyr)
 
-### [4.1 Core dplyr Functions](Notas/R_Language/Manipulacion_Dplyr/Funciones_Dplyr.ipynb)
+### [4.1 Core dplyr Functions](Manipulacion_Dplyr/Funciones_Dplyr.ipynb)
 
 - `glimpse()`  
 - `select()`  
@@ -122,7 +122,7 @@ This section contains structured notes and practical examples for learning and u
 - `levels()` and `droplevels()`  
 - `table()`
 
-### [4.2 String Manipulation](Notas/R_Language/Manipulacion_Dplyr/Manipular_cadenas.ipynb)
+### [4.2 String Manipulation](Manipulacion_Dplyr/Manipular_cadenas.ipynb)
 
 - `str_remove()`  
 - `mean()`  
@@ -138,9 +138,9 @@ This section contains structured notes and practical examples for learning and u
 
 ---
 
-## [5. ggplot2](Notas/R_Language/ggplot2)
+## [5. ggplot2](ggplot2)
 
-### [5.1 Visualization](Notas/R_Language/ggplot2/Visualización.ipynb)
+### [5.1 Visualization](ggplot2/Visualización.ipynb)
 
 - `ggplot2` library  
 - Grammar of graphics  
@@ -161,9 +161,9 @@ This section contains structured notes and practical examples for learning and u
 
 ---
 
-## [6. Statistics](Notas/R_Language/Estadistica)
+## [6. Statistics](Estadistica)
 
-### [6.1 Basic Statistics](Notas/R_Language/Estadistica/Estadistica_Basica.ipynb)
+### [6.1 Basic Statistics](Estadistica/Estadistica_Basica.ipynb)
 
 - `mean()`  
 - `median()`  
