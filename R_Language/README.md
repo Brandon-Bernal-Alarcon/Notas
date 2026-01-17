@@ -6,9 +6,9 @@ This section contains structured notes and practical examples for learning and u
 
 ## Index
 
-## [1. Introduction](Notas/R_Language/Introduccion)
+## [1. Introduction](Introduccion)
 
-### [1.1 First Steps](Notas/R_Language/Introduccion/Primeros_Pasos.ipynb)
+### [1.1 First Steps](/Introduccion/Primeros_Pasos.ipynb)
 
 - Comments  
 - Operations  
@@ -22,7 +22,7 @@ This section contains structured notes and practical examples for learning and u
 - Vector comparisons (`>`, `<`, `==`, etc.)  
 - Indexing vectors with `[i]`
 
-### [1.2 Matrices and Factors](Notas/R_Language/Introduccion/Matrices_y_Factores.ipynb)
+### [1.2 Matrices and Factors](Introduccion/Matrices_y_Factores.ipynb)
 
 - Creating matrices with `matrix()`  
 - Naming rows and columns with `colnames()` and `rownames()`  
