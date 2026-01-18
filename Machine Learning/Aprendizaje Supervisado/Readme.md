@@ -3,12 +3,6 @@
 This folder contains structured notes and implementations of **Supervised Machine Learning** algorithms using **Python and scikit-learn**.  
 Each notebook focuses on a specific model or concept, following a progressive learning path from fundamentals to model evaluation and tuning.
 
----
-
-## 📚 Index
-
----
-
 ## [01. Introduction to Supervised Learning](01_Introduccion.ipynb)
 
 - Introduction to supervised learning
@@ -180,23 +174,5 @@ Each notebook focuses on a specific model or concept, following a progressive le
 - `min_samples_split`  
 - `feature_importances_`
 
----
-
-## 🎯 Learning Outcomes
-
-By completing this section, you will be able to:
-
-- Distinguish regression and classification problems  
-- Train and evaluate supervised ML models  
-- Apply regularization and hyperparameter tuning  
-- Understand model interpretability and generalization  
-
----
-
-## 📌 Notes
-
-These notebooks serve as **learning notes and applied examples**, and can be used as:
-
-- Study material  
 - Reference documentation  
 - Templates for real machine learning projects
